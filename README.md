@@ -1,6 +1,8 @@
-# Module 8 Challenge - Vehicle Builder
+# Module 8 Challenge - Wheely Workshop Vehicle Builder
 
 [![dauntss](https://img.shields.io/badge/created_by-dauntss-deeppink)](http://github.com/dauntss)
+
+[Module 8 Challenge.webm](https://github.com/user-attachments/assets/3c5a4a9e-5354-41d7-a7bd-f995b8e12b7b)
 
 ## Description
 
